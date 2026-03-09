@@ -1,5 +1,5 @@
 {
-  "name": "community-calendar",
+  "name": "community_calendar",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -8,9 +8,9 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "14.2.3",
-    "react": "^18",
-    "react-dom": "^18",
+    "next": "^16.1.0",
+    "react": "^19",
+    "react-dom": "^19",
     "@supabase/supabase-js": "^2"
   }
 }
